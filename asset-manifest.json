@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pavanweek2/static/css/main.f96f07a4.css",
+    "main.js": "/pavanweek2/static/js/main.28c53c1e.js",
+    "static/js/592.167abb64.chunk.js": "/pavanweek2/static/js/592.167abb64.chunk.js",
+    "index.html": "/pavanweek2/index.html",
+    "main.f96f07a4.css.map": "/pavanweek2/static/css/main.f96f07a4.css.map",
+    "main.28c53c1e.js.map": "/pavanweek2/static/js/main.28c53c1e.js.map",
+    "592.167abb64.chunk.js.map": "/pavanweek2/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.28c53c1e.js"
+  ]
+}
